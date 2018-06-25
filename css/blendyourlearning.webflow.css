@@ -178,8 +178,8 @@ blockquote {
 
 .banner.sub {
   height: 500px;
-  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9));
-  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9));
+  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(136, 25, 87, .9), rgba(25, 67, 136, .9));
+  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(136, 25, 87, .9), rgba(136, 25, 87, .9));
   background-position: 50% 100%, 0px 0px;
   background-size: contain, auto;
   background-repeat: no-repeat, repeat;
@@ -194,8 +194,8 @@ blockquote {
 }
 
 .banner.sub.image-1 {
-  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-1.jpg');
-  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-1.jpg');
+  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(136, 25, 87, .9), rgba(25, 67, 136, .9)), url('../images/img-1.jpg');
+  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(136, 25, 87, .9), rgba(136, 25, 87, .9)), url('../images/img-1.jpg');
   background-position: 50% 100%, 0px 0px, 50% 0px;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, no-repeat;
@@ -203,8 +203,8 @@ blockquote {
 }
 
 .banner.sub.image-2 {
-  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-2.jpg');
-  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-2.jpg');
+  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(136, 25, 87, .9), rgba(25, 67, 136, .9)), url('../images/img-2.jpg');
+  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(136, 25, 87, .9), rgba(136, 25, 87, .9)), url('../images/img-2.jpg');
   background-position: 50% 100%, 0px 0px, 50% 50%;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, no-repeat;
@@ -212,8 +212,8 @@ blockquote {
 }
 
 .banner.sub.image-3 {
-  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-3.jpg');
-  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-3.jpg');
+  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(136, 25, 87, .9), rgba(25, 67, 136, .9)), url('../images/img-3.jpg');
+  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(136, 25, 87, .9), rgba(136, 25, 87, .9)), url('../images/img-3.jpg');
   background-position: 50% 100%, 0px 0px, 50% 50%;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, no-repeat;
@@ -221,8 +221,8 @@ blockquote {
 }
 
 .banner.sub.image-4 {
-  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-4.jpg');
-  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-4.jpg');
+  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(136, 25, 87, .9), rgba(25, 67, 136, .9)), url('../images/img-4.jpg');
+  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(136, 25, 87, .9), rgba(136, 25, 87, .9)), url('../images/img-4.jpg');
   background-position: 50% 100%, 0px 0px, 50% 50%;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, no-repeat;
@@ -230,8 +230,8 @@ blockquote {
 }
 
 .banner.sub.image-5 {
-  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-5.jpg');
-  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-5.jpg');
+  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(136, 25, 87, .9), rgba(25, 67, 136, .9)), url('../images/img-5.jpg');
+  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(136, 25, 87, .9), rgba(136, 25, 87, .9)), url('../images/img-5.jpg');
   background-position: 50% 100%, 0px 0px, 50% 50%;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, no-repeat;
@@ -239,8 +239,8 @@ blockquote {
 }
 
 .banner.sub.image-6 {
-  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-6.jpg');
-  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9)), url('../images/img-6.jpg');
+  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(136, 25, 87, .9), rgba(25, 67, 136, .9)), url('../images/img-6.jpg');
+  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(136, 25, 87, .9), rgba(136, 25, 87, .9)), url('../images/img-6.jpg');
   background-position: 50% 100%, 0px 0px, 50% 100%;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, no-repeat;
@@ -1382,7 +1382,7 @@ blockquote {
 }
 
 .submit-button {
-  width: 100%;
+  width: 50%;
   height: 50px;
   border-radius: 50px;
   background-color: rgba(135, 48, 231, .9);
@@ -1394,6 +1394,7 @@ blockquote {
   font-weight: 400;
   letter-spacing: 2px;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .submit-button:hover {
@@ -1899,8 +1900,8 @@ blockquote {
   bottom: 0px;
   width: 100%;
   height: 100%;
-  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9));
-  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(25, 67, 136, .9), rgba(25, 67, 136, .9));
+  background-image: url('../images/shape-2.png'), -webkit-linear-gradient(270deg, rgba(136, 25, 87, .9), rgba(136, 25, 87, .9));
+  background-image: url('../images/shape-2.png'), linear-gradient(180deg, rgba(136, 25, 87, .9), rgba(136, 25, 87, .9));
   background-position: 50% 100%, 0px 0px;
   background-size: contain, auto;
   background-repeat: no-repeat, repeat;
